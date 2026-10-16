@@ -1,0 +1,653 @@
+{
+  "lessonId": "bai-04",
+  "lessonNumber": 4,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai04_q4",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "GIỮ SẠCH NHÀ Ở"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai04_q1",
+      "type": "matching",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nối hình với các ô chữ chỉ tác hại tương ứng cho phù hợp. a. Gây bệnh cho người"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "requiresPageImage": true,
+        "lessonNumber": 4,
+        "exerciseNumber": 1,
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "leftItems": [
+        {
+          "id": "1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Mục 1"
+              }
+            ]
+          }
+        }
+      ],
+      "rightItems": [
+        {
+          "id": "a",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ý nghĩa a"
+              }
+            ]
+          }
+        }
+      ],
+      "correctPairs": []
+    },
+    {
+      "id": "tnxh2_bai04_q1",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "b. Làm đồ đạc bị bẩn"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai04_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "d. Gây trơn trượt và vấp ngã"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai04_q3",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "e. Làm thức ăn bị nhiễm khuẩn"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai04_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Quan sát hai hình bên"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai04_q1",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "và viết vào chỗ (...) nội dung phù hợp. Em thích căn phòng ở hình ............ vì ................ ........................................... ..........................................."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai04_q10",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "c. Làm ô nhiễm không khí xung quanh"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 10,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai04_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "g. Làm mất thời gian khi tìm đồ vật   3 Viết chữ Đ vào  trước việc làm đúng, chữ S vào  trước việc làm chưa đúng để giữ gìn vệ sinh nhà ở."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai04_q4",
+      "type": "matching",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nối hình (ở cột A) với việc cần làm để giữ sạch nhà ở (ở cột B) sao cho phù hợp.  A  B"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "requiresPageImage": true,
+        "lessonNumber": 4,
+        "exerciseNumber": 4,
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "leftItems": [
+        {
+          "id": "1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Mục 1"
+              }
+            ]
+          }
+        }
+      ],
+      "rightItems": [
+        {
+          "id": "a",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ý nghĩa a"
+              }
+            ]
+          }
+        }
+      ],
+      "correctPairs": []
+    },
+    {
+      "id": "tnxh2_bai04_q1",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "a. Lau cửa cho sạch"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai04_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "b. Đóng cửa sổ lại"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai04_q3",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_04"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "c. Mở cửa sổ ra"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 4,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    }
+  ]
+}

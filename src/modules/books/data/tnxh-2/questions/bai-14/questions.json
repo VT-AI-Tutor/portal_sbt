@@ -1,0 +1,340 @@
+{
+  "lessonId": "bai-14",
+  "lessonNumber": 14,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai14_q14",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_14"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CÙNG THAM GIA GIAO THÔNG"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 14,
+        "exerciseNumber": 14,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai14_q1",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_14"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tô màu vào  dưới hình thể hiện tình huống an toàn và tô màu vào dưới hình thể hiện tình huống không an toàn."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 14,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai14_q2",
+      "type": "matching",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_14"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nối hình (ở cột A) với điều có thể xảy ra (ở cột B) cho phù hợp."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "requiresPageImage": true,
+        "lessonNumber": 14,
+        "exerciseNumber": 2,
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "leftItems": [
+        {
+          "id": "1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Mục 1"
+              }
+            ]
+          }
+        }
+      ],
+      "rightItems": [
+        {
+          "id": "a",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ý nghĩa a"
+              }
+            ]
+          }
+        }
+      ],
+      "correctPairs": []
+    },
+    {
+      "id": "tnxh2_bai14_q3",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_14"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A  B"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 14,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai14_q32",
+      "type": "single_choice",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_14"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "a. Làm thuyền bị nghiêng, mất thăng bằng và dễ bị lật  b. Dễ xảy ra va"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 14,
+        "exerciseNumber": 32,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "“Bạn ơi! Hãy chạy nhanh mới kịp lên xe.”"
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "“Đợi tớ với, tớ sẽ chạy theo cùng bạn.”"
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "“Bạn hãy dừng lại và đợi chuyến xe sau. Chạy theo xe nguy hiểm lắm!” Bác tài xế ơi, đợi cháu với ạ!"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai14_q4",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_14"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Vẽ tranh hoặc viết một thông điệp để nhắc nhở mọi người chấp hành quy định khi tham gia giao thông. Hãy mặc áo phao để bảo vệ chính mình. Nhớ đội mũ bảo hiểm đúng cách"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 14,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    }
+  ]
+}

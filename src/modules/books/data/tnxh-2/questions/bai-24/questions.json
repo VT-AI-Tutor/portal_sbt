@@ -1,0 +1,400 @@
+{
+  "lessonId": "bai-24",
+  "lessonNumber": 24,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai24_q24",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_24"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CHĂM SÓC, BẢO VỆ CƠ QUAN HÔ HẤP"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 24,
+        "exerciseNumber": 24,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai24_q1",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_24"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Viết chữ N vào  dưới hi ̀nh thể hiện việc nên làm, chữ K vào  dưới  hi ̀nh thể hiện việc không nên làm để chăm sóc, bảo vệ cơ quan hô hấp."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 24,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai24_q2",
+      "type": "matching",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_24"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nối mỗi việc làm (ở cột A) với ý nghĩa tương ứng (ở cột B).  A 1. Đeo khẩu trang khi ra ngoài đường 2. Giữ ấm cổ, mũi"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "requiresPageImage": true,
+        "lessonNumber": 24,
+        "exerciseNumber": 2,
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "leftItems": [
+        {
+          "id": "1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": ". Đeo khẩu trang khi ra\nngoài đường\n2. Giữ ấm cổ, mũi\nkhi trời lạnh"
+              }
+            ]
+          }
+        }
+      ],
+      "rightItems": [
+        {
+          "id": "a",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ý nghĩa a"
+              }
+            ]
+          }
+        }
+      ],
+      "correctPairs": []
+    },
+    {
+      "id": "tnxh2_bai24_q56",
+      "type": "cloze",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_24"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "B\na. Giữ cho cơ quan hô hấp\nkhông bị lạnh, tránh\nmắc bệnh\nb. Giúp phổi khoẻ mạnh, hít\nthở dễ dàng hơn\n\n3. Tập hít thở sâu, tập\nthể dục hằng ngày\n\nc. Tránh hít phải khói thuốc\ngây hại cho phổi\n\n4. Tránh xa nơi có người\nhút thuốc lá\n\nd. Ngăn bụi bẩn và\nmầm bệnh đi vào\ncơ quan hô hấp\n\n\f3 Sử dụng các từ/cụm từ in nghiêng cho sẵn: phổi, mũi, miệng, không khí,\nlọc sạch, làm ấm điền vào chỗ (…) thích hợp để hoàn thành các câu sau:\nKhi hít thở, …(1)… đi vào cơ thể qua mũi và miệng. Thở bằng …(2)…\ngiúp không khí được …(3)… trước khi đi vào …(4)… Mũi còn giúp\n…(5)… không khí để cơ thể dễ chịu hơn khi trời lạnh. Nếu thường\nxuyên thở bằng …(6)…, không khí bẩn và lạnh sẽ đi thẳng vào phổi\nlàm cơ thể dễ mắc bệnh về đường hô hấp."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 24,
+        "exerciseNumber": 56,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "blanks": [
+        {
+          "id": "blank_1",
+          "acceptedAnswers": [],
+          "trimWhitespace": true
+        }
+      ],
+      "manualGrading": true
+    },
+    {
+      "id": "tnxh2_bai24_q4",
+      "type": "single_choice",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_24"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Quan sát hình dưới đây. Nếu là bạn nam trong hình em sẽ trả lời câu hỏi của em gái như thế nào? Khoanh vào chữ cái trước câu trả lời đúng."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 24,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Vì nước muối giúp miệng và cổ họng sạch hơn, hạn chế mầm bệnh gây hại cho cơ quan hô hấp. Em súc miệng bằng nước muối rồi hãy đi ngủ nhé!"
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Vì nước muối làm miệng và cổ họng có mùi thơm dễ chịu. Vì sao súc miệng bằng nước muối lại tốt cho cơ quan hô hấp ạ?"
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Vì súc miệng bằng nước muối giúp răng mọc nhanh hơn."
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Vì súc miệng bằng nước muối giúp cổ họng không bị khô."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai24_q5",
+      "type": "multiple_choice",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_24"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nếu là bạn nam trong tình huống ở hi ̀nh sau, em sẽ nói gì? Khoanh vào chữ cái trước lời nói mà em chọn."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 24,
+        "exerciseNumber": 5,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "partialScoring": true,
+        "shuffleOptions": true
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "“Chú hút thuốc làm cháu khó chịu lắm!”"
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "“Chú không được hút thuốc ở đây!” Khói thuốc làm mình khó thở quá! ?"
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "“Chú ơi, ở đây có nhiều người và trẻ em, chú có thể không hút thuốc ở đây được không ạ?”"
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "“Chú đi ra chỗ khác để cho chúng cháu lấy chỗ chơi ạ!”"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

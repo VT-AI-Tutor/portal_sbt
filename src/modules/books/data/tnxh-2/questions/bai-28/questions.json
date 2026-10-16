@@ -1,0 +1,561 @@
+{
+  "lessonId": "bai-28",
+  "lessonNumber": 28,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai28_q28",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CÁC MÙA TRONG NĂM"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 28,
+        "exerciseNumber": 28,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai28_q1",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Quan sát hình và viết tên mùa vào chỗ (…) sao cho phù hợp."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 28,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai28_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "........................................................."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 28,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai28_q3",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "........................................................."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 28,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai28_q4",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": ".........................................................  ........................................................."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 28,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai28_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Viết chữ M vào  trước các từ/nội dung chỉ đặc điểm của mùa mưa, chữ K vào  trước các từ/nội dung chỉ đặc điểm của mùa khô. Mưa ít.  Cây cối xanh tươi."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 28,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai28_q65",
+      "type": "matching",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "3 Nối tên mùa với hình chỉ trang phục phù hợp."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "requiresPageImage": true,
+        "lessonNumber": 28,
+        "exerciseNumber": 65,
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "leftItems": [
+        {
+          "id": "1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Mục 1"
+              }
+            ]
+          }
+        }
+      ],
+      "rightItems": [
+        {
+          "id": "a",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ý nghĩa a"
+              }
+            ]
+          }
+        }
+      ],
+      "correctPairs": []
+    },
+    {
+      "id": "tnxh2_bai28_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "a. Mùa xuân"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 28,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai28_q4",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "b. Mùa hè"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 28,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai28_q3",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "c. Mùa thu  d. Mùa đông"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 28,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai28_q4",
+      "type": "multi_true_false",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_28"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nếu đi du lịch đến một nơi đang là mùa khô, em cần chuẩn bị mang  theo những đồ dùng cần thiết nào? Đánh dấu  vào  trước các từ/cụm từ chi ̉đồ dùng mà em chọn. Áo phông cộc tay.\t\t Áo len dày, khăn len."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 28,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "statements": [
+        {
+          "id": "s1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Nếu đi du lịch đến một nơi đang là mùa khô, em cần chuẩn bị mang"
+              }
+            ]
+          },
+          "correctAnswer": true
+        },
+        {
+          "id": "s2",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "theo những đồ dùng cần thiết nào? Đánh dấu  vào  trước các từ/cụm từ chi ̉đồ dùng mà em chọn. Áo phông cộc tay. Áo len dày, khăn len. Mũ rộng vành, kính râm. Kem chống nắng. Giày cao cổ ấm. Quần đùi hoặc váy ngắn. Túi sưởi tay."
+              }
+            ]
+          },
+          "correctAnswer": true
+        }
+      ]
+    }
+  ]
+}

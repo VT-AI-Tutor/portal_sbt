@@ -1,0 +1,840 @@
+{
+  "lessonId": "bai-16",
+  "lessonNumber": 16,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai16_q16",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "THỰC VẬT SỐNG Ở ĐÂU?"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 16,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q1",
+      "type": "multi_true_false",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Quan sát hình dưới đây và đánh dấu  vào cột phù hợp trong bảng sau:  Tên cây Cây hoa sen Cây lục bình (bèo tây)"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "statements": [
+        {
+          "id": "s1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Quan sát hình dưới đây và đánh dấu  vào cột phù hợp trong bảng sau:"
+              }
+            ]
+          },
+          "correctAnswer": true
+        },
+        {
+          "id": "s2",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Tên cây Cây hoa sen Cây lục bình (bèo tây) Cây dừa Cây phượng Cây bưởi Cây chuối Cây rau bắp cải Cây xoài"
+              }
+            ]
+          },
+          "correctAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai16_q36",
+      "type": "matching",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Cây có Cây không có trong hình trong hình  Môi trường sống"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "requiresPageImage": true,
+        "lessonNumber": 16,
+        "exerciseNumber": 36,
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "leftItems": [
+        {
+          "id": "1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Mục 1"
+              }
+            ]
+          }
+        }
+      ],
+      "rightItems": [
+        {
+          "id": "a",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ý nghĩa a"
+              }
+            ]
+          }
+        }
+      ],
+      "correctPairs": []
+    },
+    {
+      "id": "tnxh2_bai16_q1",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Sa mạc"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Cánh đồng"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q3",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Ven biển"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q4",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đồi"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q3",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Quan sát cây xung quanh em và điền nội dung phù hợp vào chỗ (…) trong bảng sau: Số thứ tự  Tên cây"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q1",
+      "type": "cloze",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Cây đào\n\nTrên cạn\n\n…………\n\n……………\n\n……………\n\n…………\n\n……………\n\n……………\n\n…………\n\n……………\n\n……………\n\n…………\n\n……………\n\n……………"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "blanks": [
+        {
+          "id": "blank_1",
+          "acceptedAnswers": [],
+          "trimWhitespace": true
+        }
+      ],
+      "manualGrading": true
+    },
+    {
+      "id": "tnxh2_bai16_q37",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "4 Lan muốn giúp mẹ trồng cây hoa sen, cây rau mồng tơi, cây chanh, cây lúa trên khu đất nhà mình. Em hãy giúp Lan chọn nơi để trồng chúng bằng cách viết tên cây phù hợp vào chỗ (…) tương ứng với các vị trí được đánh số trong hình."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 37,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q1",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "............................."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q3",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "............................."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "............................."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q4",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "............................."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai16_q5",
+      "type": "multiple_choice",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Quan sát hi ̀nh dưới đây. Nếu là bạn nam trong hi ̀nh, em sẽ ứng xử như thế nào với bạn nữ?  Khoanh vào chữ cái trước cách ứng xử em lựa chọn."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 5,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "partialScoring": true,
+        "shuffleOptions": true
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bảo bạn cắt hoa về trồng là được, còn gốc thì để lại dưới ao cho cây ra hoa tiếp."
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Đồng ý với bạn và cùng nhau xuống ao nhổ thật nhiều cây mang về trồng."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bảo bạn nhổ cây mang về, còn mình thì đứng trên bờ xem."
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Khuyên bạn không nên nhổ vì hái hoa ở ao rất nguy hiểm và hoa súng sống dưới nước, nếu trồng vào chậu đất cây sẽ chết."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai16_q38",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_16"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Chúng mình nhổ những cây hoa súng kia mang về trồng trong chậu đất đi. ?"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 16,
+        "exerciseNumber": 38,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "lessonId": "bai-05",
+  "lessonNumber": 5,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai05_q5",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_05"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "ÔN TẬP CHỦ ĐỀ GIA ĐÌNH"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 5,
+        "exerciseNumber": 5,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai05_q1",
+      "type": "single_choice",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_05"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Khoanh vào chữ cái trước câu trả lời đúng. Gia đình ba thế hệ là:"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 5,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Gia đình có cụ, ông, bà, bố, mẹ và con cùng chung sống."
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Gia đình có ông, bà, bố, mẹ và con cùng chung sống."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Gia đình có bố, mẹ và con cùng chung sống."
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Gia đình có vợ và chồng cùng chung sống."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai05_q2",
+      "type": "single_choice",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_05"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Quan sát các tình huống dưới đây và khoanh vào chữ cái trước cách ứng xử mà em chọn.  Tình huống 1"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 5,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Cảm ơn mẹ và hứa sẽ giữ gìn áo cẩn thận. ?"
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Nhận áo và mặc ngay vào mà không nói gì."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Cầm áo và chạy đi khoe với bạn ngay lập tức."
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Im lặng không nói gì vì thấy áo không đẹp. Tình huống 2 ?"
+              }
+            ]
+          }
+        },
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Quát mắng và đánh vào tay em để em sợ."
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Nhẹ nhàng ngăn em lại, sau đó cất vỉ thuốc vào tủ thuốc."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Chạy đi báo cho bố mẹ để bố mẹ cất vỉ thuốc lên chỗ cao."
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Lấy vỉ thuốc đưa cho em chơi."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai05_q12",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_05"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "3 Hãy vẽ một nghề nghiệp, công việc mà em yêu thích vào khung dưới đây."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 5,
+        "exerciseNumber": 12,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai05_q4",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_05"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Em hãy đánh giá về những việc bản thân đã làm được có liên quan đến chủ đề Gia đình bằng cách tô màu vào trước việc em đã làm được, tô màu vào trước việc em chưa làm được. Em biết được các thành viên trong gia đình hai thế hệ,"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 5,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai05_q13",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_05"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Chủ đề"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 5,
+        "exerciseNumber": 13,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    }
+  ]
+}

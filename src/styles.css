@@ -1,0 +1,615 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+/* Inter — self-hosted variable font, only rendered by the corporate theme. */
+@import "@fontsource-variable/inter";
+/* Quicksand + Baloo 2 — self-hosted, rendered by the playful and warm themes.
+   Chú ý: các gói @fontsource-variable đăng ký family CÓ hậu tố "Variable"
+   ("Quicksand Variable", "Baloo 2 Variable"). Khai thiếu hậu tố là không khớp
+   font nào và rơi thẳng về system-ui. */
+@import "@fontsource-variable/quicksand";
+@import "@fontsource-variable/baloo-2";
+
+/* Safelist palette classes used dynamically in slide content */
+@source inline("{bg,text,ring,border,from,to,via}-{amber,sky,violet,emerald,rose,indigo,fuchsia,teal,orange,slate}-{50,100,200,300,400,500,600,700,800,900}");
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-active: var(--primary-active);
+  --color-primary-light: var(--primary-light);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-ring-offset-background: var(--background);
+
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-warning: var(--warning);
+  --color-warning-foreground: var(--warning-foreground);
+  --color-info: var(--info);
+  --color-info-foreground: var(--info-foreground);
+  --color-fun: var(--fun);
+  --color-fun-foreground: var(--fun-foreground);
+
+  --color-lesson-title: var(--lesson-title);
+  --color-question-title: var(--question-title);
+
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* App-shell fonts — resolve through --app-font-* so the `.font-display` /
+     `.font-body` UTILITIES respect the active theme. Mirrors the color pattern
+     (`--color-*: var(--*)`): because this is `@theme inline`, the value string
+     is baked into the utility verbatim, so baking `var(--app-font-display)`
+     (not a literal family) makes `.font-display` emit
+     `font-family: var(--app-font-display)` and follow [data-theme] overrides.
+     The real families live in :root / [data-theme="…"] on --app-font-* below. */
+  --font-display: var(--app-font-display);
+  --font-body: var(--app-font-body);
+
+  /* Question-player fonts — DELIBERATELY separate from the app's --font-*.
+     These expose the `font-player-display` / `font-player-body` utilities
+     that map to --player-font-* (defined once in :root, below). Because they
+     resolve to their OWN vars — never to --font-display/--font-body — the player
+     keeps its "learning" typography (Baloo 2 / Quicksand) no matter which theme
+     the surrounding app runs (corporate=Inter, warm=Quicksand, playful=Quicksand). */
+  --font-player-display: var(--player-font-display);
+  --font-player-body: var(--player-font-body);
+
+  --shadow-soft: 0 4px 14px -4px
+    color-mix(in oklab, var(--primary) 25%, transparent);
+  --shadow-pop: 0 8px 0 0 color-mix(in oklab, var(--primary) 35%, transparent);
+  --shadow-card: 0 6px 20px -8px oklch(0 0 0 / 0.15);
+}
+
+:root {
+  --radius: 1rem;
+
+  /* ------------------------------------------------------------------
+     Question-player typography — INDEPENDENT of the app theme.
+     Defined here ONCE and intentionally NOT re-declared inside
+     [data-theme="corporate"] / [data-theme="warm"] / .dark, so the player
+     always renders the "learning" fonts (Baloo 2 headings + Quicksand body)
+     regardless of the shell theme. All three families are @import-ed
+     unconditionally at the top of this file, so they are always available.
+
+     To re-skin the player for a brand/deploy, override ONLY these two vars
+     (e.g. in a brand CSS layer or :root override) — the app shell fonts
+     (--font-body / --font-display) stay untouched:
+         :root { --player-font-body: "Your Body Font", sans-serif; }
+     ------------------------------------------------------------------ */
+  --player-font-display: "Baloo 2 Variable", "Quicksand Variable", system-ui, sans-serif;
+  --player-font-body: "Quicksand Variable", "Inter Variable", system-ui, sans-serif;
+
+  /* App-shell typography — the REAL families behind the theme-aware
+     `.font-display` / `.font-body` utilities (which resolve via
+     var(--app-font-*), see @theme inline above). This :root block is the
+     playful default (Baloo 2 headings + Quicksand body); the corporate and
+     warm themes override --app-font-* below. Kept SEPARATE from the player
+     vars above so the player never inherits an app theme's fonts. */
+  --app-font-display: "Baloo 2 Variable", "Quicksand Variable", system-ui, sans-serif;
+  --app-font-body: "Quicksand Variable", "Inter Variable", system-ui, sans-serif;
+
+  /* Background tones - very soft pastel light blue */
+  --background: oklch(0.985 0.012 220);
+  --foreground: oklch(0.22 0.04 240);
+
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.22 0.04 240);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.22 0.04 240);
+
+  /* Primary: Lively, readable primary blue */
+  --primary: oklch(0.62 0.16 235);
+  --primary-foreground: oklch(0.99 0.01 220);
+  /* Primary shades — derived from --primary so every theme auto-gets sensible
+     hover/active/light values. Themes that mandate exact values (corporate)
+     override these three below. */
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, black);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, black);
+  --primary-light: color-mix(in oklab, var(--primary) 12%, white);
+
+  /* Secondary: Soft sky blue */
+  --secondary: oklch(0.94 0.03 220);
+  --secondary-foreground: oklch(0.25 0.08 240);
+
+  /* Muted: Soft cool blue-grey */
+  --muted: oklch(0.96 0.015 220);
+  --muted-foreground: oklch(0.5 0.03 240);
+
+  /* Accent: Playful sunny yellow (remains warm for perfect contrast) */
+  --accent: oklch(0.93 0.12 95);
+  --accent-foreground: oklch(0.3 0.08 80);
+
+  --destructive: oklch(0.65 0.22 25);
+  --destructive-foreground: oklch(0.99 0.01 90);
+
+  /* Status colors */
+  --success: oklch(0.7 0.16 150);
+  --success-foreground: oklch(0.99 0.01 90);
+  --warning: oklch(0.82 0.16 75);
+  --warning-foreground: oklch(0.25 0.05 80);
+  --info: oklch(0.68 0.15 240);
+  --info-foreground: oklch(0.99 0.01 90);
+  --fun: oklch(0.72 0.2 320);
+  --fun-foreground: oklch(0.99 0.01 90);
+
+  /* Tiêu đề bài học và tiêu đề câu hỏi tách thành HAI token vì hôm nay chúng
+     KHÁC màu; gộp một token là đổi màu brand dehoctot, thứ không được phép. */
+  --lesson-title: var(--foreground);
+  --question-title: oklch(27.9% 0.041 260.031);
+
+  /* Board & Input borders */
+  --border: oklch(0.92 0.015 220);
+  --input: oklch(0.94 0.015 220);
+  --ring: oklch(0.62 0.16 235);
+
+  --chart-1: oklch(0.62 0.16 235);
+  --chart-2: oklch(0.7 0.16 150);
+  --chart-3: oklch(0.68 0.15 240);
+  --chart-4: oklch(0.72 0.2 320);
+  --chart-5: oklch(0.82 0.16 75);
+
+  --sidebar: oklch(0.98 0.015 220);
+  --sidebar-foreground: oklch(0.25 0.04 240);
+  --sidebar-primary: oklch(0.62 0.16 235);
+  --sidebar-primary-foreground: oklch(0.99 0.01 220);
+  --sidebar-accent: oklch(0.94 0.03 220);
+  --sidebar-accent-foreground: oklch(0.3 0.08 240);
+  --sidebar-border: oklch(0.92 0.015 220);
+  --sidebar-ring: oklch(0.62 0.16 235);
+
+  /* Gradients */
+  --gradient-primary: linear-gradient(
+    135deg,
+    oklch(0.68 0.16 220),
+    oklch(0.55 0.18 240)
+  );
+  --gradient-fun: linear-gradient(
+    135deg,
+    oklch(0.68 0.16 220),
+    oklch(0.72 0.2 320)
+  );
+  --gradient-sky: linear-gradient(
+    135deg,
+    oklch(0.85 0.1 230),
+    oklch(0.78 0.13 200)
+  );
+  --gradient-sunny: linear-gradient(
+    135deg,
+    oklch(0.92 0.14 95),
+    oklch(0.78 0.17 60)
+  );
+  --gradient-grass: linear-gradient(
+    135deg,
+    oklch(0.82 0.15 145),
+    oklch(0.7 0.16 150)
+  );
+  --gradient-bg: linear-gradient(
+    180deg,
+    oklch(0.99 0.01 220),
+    oklch(0.965 0.02 210)
+  );
+}
+
+/* ============================================================
+   Corporate theme — enterprise blue design system.
+   Opt-in via config: THEME/VITE_THEME = 'corporate' sets
+   <html data-theme="corporate">. Values are the exact hex from
+   the mandated UI design system (design-system.html). Light-only.
+   ============================================================ */
+[data-theme="corporate"] {
+  --radius: 0.5rem; /* 8px */
+
+  --background: #f8fafc;
+  --foreground: #0f172a;
+
+  --card: #ffffff;
+  --card-foreground: #0f172a;
+  --popover: #ffffff;
+  --popover-foreground: #0f172a;
+
+  --primary: #005fcc;
+  --primary-foreground: #ffffff;
+  /* design-system.html §2.2 — exact primary palette */
+  --primary-hover: #0052b3;
+  --primary-active: #004494;
+  --primary-light: #e6f0ff;
+
+  /* Chỉ theme corporate (brand nxbgd) mới tô tiêu đề bằng màu thương hiệu. */
+  --lesson-title: var(--primary-active);
+  --question-title: var(--primary-active);
+
+  --secondary: #f1f5f9;
+  --secondary-foreground: #475569;
+
+  --muted: #f1f5f9;
+  --muted-foreground: #64748b;
+
+  --accent: #e6f0ff;
+  --accent-foreground: #004494;
+
+  --destructive: #b42318;
+  --destructive-foreground: #ffffff;
+
+  --success: #166534;
+  --success-foreground: #ffffff;
+  --warning: #92400e;
+  --warning-foreground: #ffffff;
+  --info: #005fcc;
+  --info-foreground: #ffffff;
+  --fun: #005fcc;
+  --fun-foreground: #ffffff;
+
+  --border: #e2e8f0;
+  --input: #cbd5e1;
+  --ring: #005fcc;
+
+  --chart-1: #005fcc;
+  --chart-2: #166534;
+  --chart-3: #64748b;
+  --chart-4: #92400e;
+  --chart-5: #94a3b8;
+
+  --sidebar: #ffffff;
+  --sidebar-foreground: #0f172a;
+  --sidebar-primary: #005fcc;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #e6f0ff;
+  --sidebar-accent-foreground: #004494;
+  --sidebar-border: #e2e8f0;
+  --sidebar-ring: #005fcc;
+
+  /* Design system mandates Inter across the whole system. Override the
+     app-shell font vars so BOTH the base h1–h6 (var(--font-display)) and the
+     `.font-display` / `.font-body` utilities render Inter. Player fonts
+     (--player-font-*) are intentionally NOT overridden here. */
+  --app-font-display: "Inter Variable", "Inter", system-ui, sans-serif;
+  --app-font-body: "Inter Variable", "Inter", system-ui, sans-serif;
+
+  /* Flat background — the design system uses a solid page background,
+     not a gradient. Keep the var so body { background: var(--gradient-bg) } works. */
+  --gradient-bg: #f8fafc;
+  --gradient-primary: linear-gradient(135deg, #005fcc, #004494);
+  --gradient-fun: linear-gradient(135deg, #005fcc, #0052b3);
+  --gradient-sky: linear-gradient(135deg, #e6f0ff, #005fcc);
+  --gradient-sunny: linear-gradient(135deg, #e6f0ff, #0052b3);
+  --gradient-grass: linear-gradient(135deg, #166534, #14532d);
+}
+
+/* ============================================================
+   Warm theme — warm orange "Để học tốt" palette.
+   Opt-in via config: THEME/VITE_THEME = 'warm' sets
+   <html data-theme="warm">. Values mirror hcmc.dehoctot.vn
+   (same token architecture, warm-orange variant). Light-only.
+   Uses self-hosted Quicksand + Baloo 2 (imported above).
+   ============================================================ */
+[data-theme="warm"] {
+  --radius: 1rem;
+
+  --background: oklch(98.5% 0.012 90);
+  --foreground: oklch(22% 0.04 260);
+
+  --card: oklch(100% 0 0);
+  --card-foreground: oklch(22% 0.04 260);
+  --popover: oklch(100% 0 0);
+  --popover-foreground: oklch(22% 0.04 260);
+
+  --primary: oklch(68% 0.19 38);
+  --primary-foreground: oklch(99% 0.01 90);
+
+  --secondary: oklch(93% 0.04 238);
+  --secondary-foreground: oklch(28% 0.08 250);
+
+  --muted: oklch(96% 0.015 80);
+  --muted-foreground: oklch(50% 0.03 250);
+
+  --accent: oklch(93% 0.12 82);
+  --accent-foreground: oklch(30% 0.08 80);
+
+  --destructive: oklch(65% 0.22 25);
+  --destructive-foreground: oklch(99% 0.01 90);
+
+  --success: oklch(62% 0.16 147);
+  --success-foreground: oklch(99% 0.01 90);
+  --warning: oklch(80% 0.17 70);
+  --warning-foreground: oklch(25% 0.05 80);
+  --info: oklch(64% 0.15 243);
+  --info-foreground: oklch(99% 0.01 90);
+  --fun: oklch(42% 0.16 262);
+  --fun-foreground: oklch(99% 0.01 90);
+
+  --border: oklch(91% 0.02 80);
+  --input: oklch(93% 0.02 80);
+  --ring: oklch(68% 0.19 38);
+
+  --chart-1: oklch(68% 0.19 38);
+  --chart-2: oklch(62% 0.16 147);
+  --chart-3: oklch(64% 0.15 243);
+  --chart-4: oklch(42% 0.16 262);
+  --chart-5: oklch(80% 0.17 70);
+
+  --sidebar: oklch(98% 0.015 80);
+  --sidebar-foreground: oklch(25% 0.04 260);
+  --sidebar-primary: oklch(68% 0.19 38);
+  --sidebar-primary-foreground: oklch(99% 0.01 90);
+  --sidebar-accent: oklch(94% 0.04 80);
+  --sidebar-accent-foreground: oklch(30% 0.08 60);
+  --sidebar-border: oklch(92% 0.02 80);
+  --sidebar-ring: oklch(68% 0.19 38);
+
+  /* Same playful fonts as the reference site — self-hosted variable versions.
+     Override the app-shell font vars (utilities + base headings follow). */
+  --app-font-display: "Baloo 2 Variable", "Quicksand Variable", system-ui, sans-serif;
+  --app-font-body: "Quicksand Variable", "Inter Variable", system-ui, sans-serif;
+
+  --gradient-primary: linear-gradient(135deg, oklch(74% 0.18 42), oklch(60% 0.2 28));
+  --gradient-fun: linear-gradient(135deg, oklch(74% 0.18 42), oklch(42% 0.16 262));
+  --gradient-sky: linear-gradient(135deg, oklch(85% 0.1 238), oklch(78% 0.13 215));
+  --gradient-sunny: linear-gradient(135deg, oklch(92% 0.14 82), oklch(78% 0.17 55));
+  --gradient-grass: linear-gradient(135deg, oklch(82% 0.15 147), oklch(62% 0.16 147));
+  --gradient-bg: linear-gradient(180deg, oklch(99% 0.015 90), oklch(97% 0.03 60));
+}
+
+.dark {
+  --background: oklch(0.18 0.03 240);
+  --foreground: oklch(0.97 0.01 90);
+  --card: oklch(0.22 0.03 240);
+  --card-foreground: oklch(0.97 0.01 90);
+  --popover: oklch(0.22 0.03 240);
+  --popover-foreground: oklch(0.97 0.01 90);
+  --primary: oklch(0.72 0.14 220);
+  --primary-foreground: oklch(0.15 0.03 240);
+  --secondary: oklch(0.3 0.04 250);
+  --secondary-foreground: oklch(0.97 0.01 90);
+  --muted: oklch(0.26 0.02 240);
+  --muted-foreground: oklch(0.72 0.03 250);
+  --accent: oklch(0.35 0.08 80);
+  --accent-foreground: oklch(0.97 0.01 90);
+  --destructive: oklch(0.65 0.22 25);
+  --destructive-foreground: oklch(0.99 0.01 90);
+  --success: oklch(0.7 0.16 150);
+  --success-foreground: oklch(0.15 0.02 150);
+  --warning: oklch(0.82 0.16 75);
+  --warning-foreground: oklch(0.2 0.05 80);
+  --info: oklch(0.68 0.15 240);
+  --info-foreground: oklch(0.99 0.01 90);
+  --fun: oklch(0.72 0.2 320);
+  --fun-foreground: oklch(0.99 0.01 90);
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 18%);
+  --ring: oklch(0.72 0.14 220);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  html {
+    font-family: var(--font-body);
+  }
+
+  body {
+    background: var(--gradient-bg);
+    color: var(--color-foreground);
+    min-height: 100vh;
+    font-family: var(--font-body);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  /* Question-player root — set once on the player facade wrapper
+     (<div data-player-root> in QuestionPlayer). Everything inside inherits
+     the learning body font, and any semantic heading uses the learning
+     display font, so the player is font-independent from the app theme
+     WITHOUT touching each of the ~40 player components. Headings that use the
+     `font-player-display` utility (shared.tsx / skins.ts) get the same var
+     from the utilities layer. */
+  [data-player-root] {
+    font-family: var(--player-font-body);
+  }
+
+  /* Baloo (display font) is OPT-IN via the `font-player-display` utility on the
+     question STEM/title only (shared.tsx / skins.ts). Semantic headings that are
+     really CONTENT — bucket labels, column headers (h3/h4 inside a player) — must
+     inherit the body font (Quicksand), so we deliberately do NOT force all
+     h1–h6 to the display font here (Owner 04/8: chỉ tiêu đề đề bài dùng Baloo). */
+}
+
+/* Custom animations */
+@keyframes wiggle {
+  0%,
+  100% {
+    transform: rotate(-3deg);
+  }
+  50% {
+    transform: rotate(3deg);
+  }
+}
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+@keyframes pop-in {
+  0% {
+    transform: scale(0.7);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.08);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes confetti-fall {
+  0% {
+    transform: translateY(-100vh) rotate(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(720deg);
+    opacity: 0;
+  }
+}
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-6px);
+  }
+  75% {
+    transform: translateX(6px);
+  }
+}
+
+.animate-wiggle {
+  animation: wiggle 1.4s ease-in-out infinite;
+}
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+.animate-pop-in {
+  animation: pop-in 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.animate-shake {
+  animation: shake 0.4s;
+}
+
+/* Pop button (kid-friendly, with shadow stub) */
+.btn-pop {
+  box-shadow: 0 5px 0 0 color-mix(in oklab, var(--primary) 50%, oklch(0.2 0 0));
+  transition:
+    transform 0.12s,
+    box-shadow 0.12s;
+}
+.btn-pop:hover {
+  transform: translateY(-1px);
+}
+.btn-pop:active {
+  transform: translateY(4px);
+  box-shadow: 0 1px 0 0 color-mix(in oklab, var(--primary) 50%, oklch(0.2 0 0));
+}
+
+/* Embedded lesson PDF: fit width on mobile, no horizontal scroll */
+@media (max-width: 1023px) {
+  .lesson-pdf-viewer {
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .lesson-pdf-canvas {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+/* ── Bản in đề/phiếu ra giấy (PAPER-R16) ────────────────────────────────────
+   Khuôn A4 cho đề kiểm tra: khi in, mọi thứ ngoài các tờ đề biến mất và mỗi tờ
+   bắt đầu ở một trang mới. Lớp `paper-sheet` bọc từng tờ (đề, đáp án, phiếu
+   trả lời); `printing-papers` đặt trên <body> ngay trước khi gọi in. */
+.paper-sheet {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 13pt;
+  line-height: 1.45;
+}
+
+@media screen {
+  .paper-sheet {
+    max-width: 210mm;
+    margin: 0 auto 1rem;
+    padding: 12mm;
+    border: 1px solid rgb(0 0 0 / 0.15);
+    box-shadow: 0 1px 3px rgb(0 0 0 / 0.1);
+  }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 15mm 15mm 15mm 20mm;
+  }
+
+  /* Chỉ in các tờ đề. Ẩn phần còn lại bằng cách giấu mọi nhánh KHÔNG chứa tờ
+     nào — dùng `visibility` chứ không `display:none` để không phá bố cục của
+     chính các tờ nằm sâu bên trong. */
+  body.printing-papers * {
+    visibility: hidden;
+  }
+  body.printing-papers .paper-sheet,
+  body.printing-papers .paper-sheet * {
+    visibility: visible;
+  }
+  body.printing-papers .paper-sheet {
+    position: relative;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-shadow: none;
+    page-break-after: always;
+  }
+  body.printing-papers .paper-sheet:last-of-type {
+    page-break-after: auto;
+  }
+  .break-inside-avoid {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}

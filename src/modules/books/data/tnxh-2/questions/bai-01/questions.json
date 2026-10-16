@@ -1,0 +1,475 @@
+{
+  "lessonId": "bai-01",
+  "lessonNumber": 1,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai01_q1a",
+      "type": "single_choice",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_01"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Gia đình bạn Đức có mấy thế hệ cùng chung sống?"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 1,
+        "exerciseNumber": 1,
+        "subPart": "a",
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hai thế hệ."
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ba thế hệ."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bốn thế hệ."
+              }
+            ]
+          }
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": "tnxh2_bai01_q1b",
+      "type": "single_choice",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_01"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Gia đình em có mấy thế hệ cùng chung sống?"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 1,
+        "exerciseNumber": 1,
+        "subPart": "b",
+        "bookId": "tnxh-2",
+        "studentSpecific": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hai thế hệ."
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ba thế hệ."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bốn thế hệ."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai01_q1c",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_01"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Hãy vẽ sơ đồ các thế hệ trong gia đình em."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 1,
+        "exerciseNumber": 1,
+        "subPart": "c",
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "minWords": 0,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai01_q2",
+      "type": "multiple_choice",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_01"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Gia đình Minh có những thành viên sau cùng chung sống: ông, bà, bác Lê (anh trai của bố), vợ bác Lê và các con của bác (chị Tuyết, anh Hải), bố, mẹ Minh và Minh. Trong gia đình Minh, những người cùng thế hệ là:"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 1,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": true,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Minh và chị Tuyết, anh Hải."
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bác Lê cùng vợ và các con của bác."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bố, mẹ Minh và Minh."
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bố Minh và bác Lê."
+              }
+            ]
+          }
+        }
+      ],
+      "correctAnswers": [
+        "A"
+      ]
+    },
+    {
+      "id": "tnxh2_bai01_q3",
+      "type": "multi_true_false",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_01"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Hãy đánh dấu vào các hoạt động thể hiện sự chia sẻ, quan tâm giữa các thành viên trong gia đình."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 1,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "statements": [
+        {
+          "id": "s1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Con ngồi dậy uống thuốc cho chóng khỏe nhé!"
+              }
+            ]
+          },
+          "correctAnswer": true
+        },
+        {
+          "id": "s2",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Em đã hiểu bài chưa?"
+              }
+            ]
+          },
+          "correctAnswer": true
+        },
+        {
+          "id": "s3",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Em đưa bài tập anh làm hộ cho. Xong rồi hai anh em đi đá bóng."
+              }
+            ]
+          },
+          "correctAnswer": false
+        },
+        {
+          "id": "s4",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hôm nay ngoài trời rét lắm, bà mặc áo len cho ấm ạ!"
+              }
+            ]
+          },
+          "correctAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai01_q4",
+      "type": "single_choice",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_01"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Em với bạn đang chơi ở ngoài sân, thấy bà đi chợ về, tay xách nhiều túi, em sẽ làm gì?"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 1,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Chạy lại xách đồ giúp bà."
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Vẫn tiếp tục chơi cùng bạn."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bảo bạn ra xách đồ hộ bà, còn mình thì vẫn tiếp tục chơi."
+              }
+            ]
+          }
+        }
+      ],
+      "correctAnswer": "A"
+    }
+  ]
+}

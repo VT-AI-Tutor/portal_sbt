@@ -1,0 +1,637 @@
+{
+  "lessonId": "bai-11",
+  "lessonNumber": 11,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai11_q11",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_11"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CỘNG ĐỒNG ĐỊA PHƯƠNG HOẠT ĐỘNG MUA BÁN HÀNG HOÁ"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 11,
+        "exerciseNumber": 11,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai11_q1",
+      "type": "multi_true_false",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_11"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đánh dấu  vào  dưới những hàng hoá cần thiết trong cuộc sống hằng ngày của gia đình em."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 11,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "statements": [
+        {
+          "id": "s1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Đánh dấu  vào  dưới những hàng hoá cần thiết trong cuộc sống hằng ngày của gia đình em."
+              }
+            ]
+          },
+          "correctAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai11_q24",
+      "type": "matching",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_11"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "2 Nối hình (ở cột A) với ô chữ chỉ địa điểm (ở cột B) sao cho phù hợp.  A  B"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "requiresPageImage": true,
+        "lessonNumber": 11,
+        "exerciseNumber": 24,
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "leftItems": [
+        {
+          "id": "1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Mục 1"
+              }
+            ]
+          }
+        }
+      ],
+      "rightItems": [
+        {
+          "id": "a",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ý nghĩa a"
+              }
+            ]
+          }
+        }
+      ],
+      "correctPairs": []
+    },
+    {
+      "id": "tnxh2_bai11_q1",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_11"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "a. Siêu thị"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 11,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai11_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_11"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "b. Chợ"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 11,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai11_q3",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_11"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "c. Cửa hàng"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 11,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai11_q3",
+      "type": "ordering",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_11"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đánh số thứ tự vào  các bước khi mua hàng tại: Siêu thị  Chợ  Đến các quầy hàng cần mua."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 11,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "items": [
+        {
+          "id": "i1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Đánh số thứ tự vào  các bước khi mua hàng tại:"
+              }
+            ]
+          }
+        },
+        {
+          "id": "i2",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Đến các quầy hàng cần mua."
+              }
+            ]
+          }
+        },
+        {
+          "id": "i3",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Trả giá các mặt hàng cần mua"
+              }
+            ]
+          }
+        },
+        {
+          "id": "i4",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "với người bán."
+              }
+            ]
+          }
+        },
+        {
+          "id": "i5",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Kiểm tra hoá đơn thanh toán"
+              }
+            ]
+          }
+        },
+        {
+          "id": "i6",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "trước khi ra về."
+              }
+            ]
+          }
+        },
+        {
+          "id": "i7",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Trả tiền tại quầy thanh toán."
+              }
+            ]
+          }
+        },
+        {
+          "id": "i8",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Lựa chọn hàng hoá."
+              }
+            ]
+          }
+        },
+        {
+          "id": "i9",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hỏi giá trước khi mua hàng."
+              }
+            ]
+          }
+        },
+        {
+          "id": "i10",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Trả tiền trực tiếp cho người"
+              }
+            ]
+          }
+        },
+        {
+          "id": "i11",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Lựa chọn hàng hoá."
+              }
+            ]
+          }
+        }
+      ],
+      "correctOrder": [
+        "i1",
+        "i2",
+        "i3",
+        "i4",
+        "i5",
+        "i6",
+        "i7",
+        "i8",
+        "i9",
+        "i10",
+        "i11"
+      ]
+    },
+    {
+      "id": "tnxh2_bai11_q4",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_11"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Viết chữ Đ vào  trước câu trả lời đúng, chữ S vào  trước câu trả lời sai. Việc lựa chọn hàng hoá trước khi mua mang lại lợi ích gì?  Giúp chúng ta chọn được hàng hoá tốt, an toàn cho sức khoẻ. Giúp chúng ta chọn được món đồ bền, đẹp và giá cả phù hợp."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 11,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai11_q25",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_11"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "HÀNH MUA BÁN"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 11,
+        "exerciseNumber": 25,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai11_q12",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_11"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "THỰC HÀNG HOÁ"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 11,
+        "exerciseNumber": 12,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    }
+  ]
+}

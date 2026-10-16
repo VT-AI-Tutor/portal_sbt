@@ -1,0 +1,377 @@
+{
+  "lessonId": "bai-27",
+  "lessonNumber": 27,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai27_q27",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_27"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "ÔN TẬP CHỦ ĐỀ CON NGƯỜI VÀ SỨC KHOẺ"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 27,
+        "exerciseNumber": 27,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai27_q1",
+      "type": "cloze",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_27"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Chọn các ô chữ dưới đây để điền vào chỗ (…) trong sơ đồ sau sao cho\nphù hợp.\n\nPhổi\n\nỐng dẫn\nnước tiểu\n\nKhớp\n\nĐi, đứng, ngồi đúng tư thế\n\nPhế quản\n\nBóng đái\n\nCơ\n\nĐeo khẩu trang khi đi đường\n\nXương\n\nỐng đái\n\nKhí quản\n\nKhông nhịn tiểu\n\nCƠ QUAN VẬN ĐỘNG\n\nCƠ QUAN HÔ HẤP\n\n• Các bộ phận\n\n• Các bộ phận\n\n– ...........................................\n\n– Mũi, ..................................\n\n– ...........................................\n\n– ...........................................\n\n• Việc nên làm\n\n• Việc nên làm\n\n– Tập thể dục, thể thao\n\n– Tập hít thở sâu\n\n– ...........................................\n\n– ...........................................\n\nCƠ QUAN BÀI TIẾT NƯỚC TIỂU\n• Các bộ phận\n– Thận, ..............................................\n– ..................................................."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 27,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "blanks": [
+        {
+          "id": "blank_1",
+          "acceptedAnswers": [],
+          "trimWhitespace": true
+        }
+      ],
+      "manualGrading": true
+    },
+    {
+      "id": "tnxh2_bai27_q63",
+      "type": "single_choice",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_27"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "2 Hôm nay, lớp Tú tổ chức đi hoạt động trải nghiệm ngoài công viên. Em  hãy giúp Tú lựa chọn cách ứng xử phù hợp với các ti ̀nh huống được mô tả trong hi ̀nh dưới đây bằng cách khoanh vào chữ cái trước phương án mà em chọn."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 27,
+        "exerciseNumber": 63,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Cảm ơn bạn và đeo khẩu trang ngay."
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Cất vào cặp để khi nào về đến nhà mới đeo."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Từ chối vì đeo khẩu trang thấy vướng."
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Nhận khẩu trang từ bạn nhưng chỉ cầm ở tay. b) Đang chơi vui mà mình lại buồn đi tiểu. Mình có nên đi tiểu luôn hay nhịn đến lúc về nhỉ?"
+              }
+            ]
+          }
+        },
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Cố gắng nhịn tiểu vì đang chơi rất vui."
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Đợi về nhà để đi vệ sinh cho sạch."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Xin phép đi tiểu ngay rồi quay lại chơi tiếp."
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Xin được làm quản trò để quên đi cảm giác buồn tiểu."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai27_q3",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_27"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Em hãy đánh giá những việc bản thân đã làm hoặc chưa làm được có liên quan đến chủ đề bằng cách tô màu vào tô màu vào trước việc em chưa làm được.  trước việc em đã làm,"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 27,
+        "exerciseNumber": 3,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai27_q64",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_27"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Chủ đề"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 27,
+        "exerciseNumber": 64,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai27_q6",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_27"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "TRÁI ĐẤT VÀ BẦU TRỜI"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 27,
+        "exerciseNumber": 6,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    }
+  ]
+}

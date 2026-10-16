@@ -1,0 +1,403 @@
+{
+  "lessonId": "bai-02",
+  "lessonNumber": 2,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai02_q1",
+      "type": "matching",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_02"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nối hình diễn tả công việc với ý nghĩa của công việc cho phù hợp."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 2,
+        "exerciseNumber": 1,
+        "bookId": "tnxh-2",
+        "requiresPageImage": true,
+        "page": 6
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "leftItems": [
+        {
+          "id": "1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hình 1"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hình 2"
+              }
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hình 3"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hình 4"
+              }
+            ]
+          }
+        }
+      ],
+      "rightItems": [
+        {
+          "id": "a",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Chữa bệnh, chăm sóc sức khỏe cho mọi người"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Làm ra đồ dùng cần thiết cho sinh hoạt như bàn ghế, tủ,…"
+              }
+            ]
+          }
+        },
+        {
+          "id": "d",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Giữ gìn đường phố sạch sẽ, bảo vệ môi trường"
+              }
+            ]
+          }
+        },
+        {
+          "id": "e",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Giúp thiết kế, làm ra máy móc để sử dụng trong sản xuất, sinh hoạt"
+              }
+            ]
+          }
+        }
+      ],
+      "correctPairs": [
+        {
+          "leftId": "1",
+          "rightId": "a"
+        },
+        {
+          "leftId": "2",
+          "rightId": "b"
+        },
+        {
+          "leftId": "3",
+          "rightId": "d"
+        },
+        {
+          "leftId": "4",
+          "rightId": "e"
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai02_q2",
+      "type": "ordering",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_02"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đánh số thứ tự 1, 2, 3 vào các câu hỏi theo thứ tự phù hợp với tình huống (bạn Tuấn hỏi ông ngoại)."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 2,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "items": [
+        {
+          "id": "i1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Trước đây ông làm nghề gì ạ?"
+              }
+            ]
+          }
+        },
+        {
+          "id": "i2",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Công việc đó mang lại lợi ích gì cho mọi người ạ?"
+              }
+            ]
+          }
+        },
+        {
+          "id": "i3",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Công việc hằng ngày của ông là gì ạ?"
+              }
+            ]
+          }
+        }
+      ],
+      "correctOrder": [
+        "i1",
+        "i2",
+        "i3"
+      ]
+    },
+    {
+      "id": "tnxh2_bai02_q3",
+      "type": "matching",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_02"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Nối hình thể hiện hoạt động tình nguyện (cột A) với ý nghĩa (cột B) sao cho phù hợp."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 2,
+        "exerciseNumber": 3,
+        "bookId": "tnxh-2",
+        "requiresPageImage": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "leftItems": [
+        {
+          "id": "1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hình hoạt động 1"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hình hoạt động 2"
+              }
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Hình hoạt động 3"
+              }
+            ]
+          }
+        }
+      ],
+      "rightItems": [
+        {
+          "id": "a",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Giúp giữ gìn trật tự, an toàn giao thông"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Góp phần bảo vệ môi trường biển, giữ cho cảnh quan sạch đẹp"
+              }
+            ]
+          }
+        },
+        {
+          "id": "c",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Giúp đỡ người dân vùng lũ vượt qua khó khăn"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai02_q4",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_02"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Viết hai câu để giới thiệu với bạn về nghề nghiệp của bố hoặc mẹ em."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 2,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "minWords": 20,
+      "maxWords": 200
+    }
+  ]
+}

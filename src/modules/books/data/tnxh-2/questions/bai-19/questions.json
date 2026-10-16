@@ -1,0 +1,261 @@
+{
+  "lessonId": "bai-19",
+  "lessonNumber": 19,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai19_q19",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_19"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "THỰC VẬT VÀ ĐỘNG VẬT QUANH EM"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 19,
+        "exerciseNumber": 19,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai19_q1",
+      "type": "multi_true_false",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_19"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đánh dấu  vào  trước các cách thu thập thông tin để tìm hiểu về thực vật và động vật mà em sẽ thực hiện.  Quan sát trực tiếp các cây và con vật ở vườn trường hoặc nơi em ở. Nghe thầy cô giáo giảng bài và ghi chép lại những điều thú vị. Xem các chương trình thế giới động vật, phim tài liệu về thiên nhiên"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 19,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "statements": [
+        {
+          "id": "s1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Đánh dấu  vào  trước các cách thu thập thông tin để tìm hiểu về thực vật và động vật mà em sẽ thực hiện."
+              }
+            ]
+          },
+          "correctAnswer": true
+        },
+        {
+          "id": "s2",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Quan sát trực tiếp các cây và con vật ở vườn trường hoặc nơi em ở. Nghe thầy cô giáo giảng bài và ghi chép lại những điều thú vị. Xem các chương trình thế giới động vật, phim tài liệu về thiên nhiên trên ti vi. Đọc sách, báo hoặc truyện tranh về các cây và con vật trong thư viện. Hỏi bố mẹ, người thân về các cây và con vật. Tìm kiếm hình ảnh và thông tin về thực vật, động vật trên mạng internet (dưới sự hướng dẫn của người lớn)."
+              }
+            ]
+          },
+          "correctAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai19_q2",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_19"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Lớp An tổ chức một buổi điều tra, tìm hiểu về thực vật và động vật ở  vườn trường. Em hãy giúp An và các bạn lựa chọn những hành động đúng để buổi tìm hiểu đạt kết quả tốt và an toàn bằng cách viết chữ N vào  trước các việc nên làm, chữ K vào  trước các việc không nên làm."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 19,
+        "exerciseNumber": 2,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai19_q44",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_19"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "3 Quan sát, điều tra tìm hiểu môi trường sống của một số thực vật, động vật và viết vào chỗ (…) để hoàn thành phiếu sau: PHIẾU QUAN SÁT Họ và tên:………………………………… Nhóm:……………. Lớp………… Địa điểm quan sát:……………………………… Thời gian:……………….. Tên cây hoặc"
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 19,
+        "exerciseNumber": 44,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    },
+    {
+      "id": "tnxh2_bai19_q4",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "medium",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_19"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Vẽ một cây hoặc con vật mà em thích nhất trong buổi quan sát vào ô trống dưới đây."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 19,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2",
+        "autoParsed": true
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    }
+  ]
+}

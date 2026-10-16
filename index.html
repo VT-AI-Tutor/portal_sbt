@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nhà Xuất bản Giáo dục Việt Nam - Sách bài tập</title>
+    <meta name="description" content="Hệ thống vở bài tập tích hợp AI" />
+    <script src="/config.js"></script>
+    <!-- Brand + Theme trước first paint (no flash of wrong theme/title/favicon).
+         Ưu tiên: key phẳng > config.js.BRANDS[brand] (Owner sửa ở config.js) >
+         map IDENTITY built-in (duplicate nhỏ với brand.ts) > default. -->
+    <script>
+      (function () {
+        var THEMES = ['corporate', 'warm'];
+        var IDENTITY = {
+          dehoctot: { title: 'Để học tốt – vững nền tảng, chắc tương lai', favicon: '/favicon-dehoctot.png', theme: 'corporate' },
+          'dehoctot-hcm': { title: 'Để học tốt – vững nền tảng, chắc tương lai', favicon: '/favicon-dehoctot.png', theme: 'warm' },
+        };
+        function pick() { for (var i = 0; i < arguments.length; i++) { var v = arguments[i]; if (typeof v === 'string' && v.trim() !== '') return v.trim(); } return ''; }
+        var cfg = window.__APP_CONFIG__;
+        var b = (cfg && typeof cfg.BRAND === 'string' && cfg.BRAND.trim().toLowerCase()) || '';
+        var bc = (cfg && cfg.BRANDS && cfg.BRANDS[b]) || {};
+        var id = IDENTITY[b] || {};
+        var title = pick(bc.TITLE, id.title);
+        if (title) document.title = title;
+        var favicon = pick(bc.FAVICON, id.favicon);
+        if (favicon) {
+          var link = document.createElement('link');
+          link.rel = 'icon';
+          link.href = favicon;
+          document.head.appendChild(link);
+        }
+        var t = pick(cfg && cfg.THEME, bc.THEME, id.theme).toLowerCase();
+        document.documentElement.dataset.theme = THEMES.indexOf(t) !== -1 ? t : 'playful';
+      })();
+    </script>
+    <!-- Google Tag: fires immediately after config.js. Ưu tiên GOOGLE_TAG_ID:
+         key phẳng > config.js.BRANDS[brand] > default. -->
+    <script>
+      (function () {
+        var DEFAULT_TAG_ID = 'G-GZKQG2Y1W0';
+        var cfg = window.__APP_CONFIG__;
+        var b = (cfg && typeof cfg.BRAND === 'string' && cfg.BRAND.trim().toLowerCase()) || '';
+        var bc = (cfg && cfg.BRANDS && cfg.BRANDS[b]) || {};
+        var flat = cfg && typeof cfg.GOOGLE_TAG_ID === 'string' && cfg.GOOGLE_TAG_ID.trim();
+        var brand = typeof bc.GOOGLE_TAG_ID === 'string' && bc.GOOGLE_TAG_ID.trim();
+        var tagId = flat || brand || DEFAULT_TAG_ID;
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { window.dataLayer.push(arguments); }
+        window.gtag = gtag;
+        gtag('js', new Date());
+        gtag('config', tagId);
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(tagId);
+        document.head.appendChild(s);
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

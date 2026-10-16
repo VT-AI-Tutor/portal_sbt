@@ -1,0 +1,429 @@
+{
+  "lessonId": "bai-03",
+  "lessonNumber": 3,
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "tnxh2_bai03_q1",
+      "type": "multi_true_false",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_03"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Viết chữ N vào việc nên làm, chữ K vào việc không nên làm để phòng tránh ngộ độc khi ở nhà."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 3,
+        "exerciseNumber": 1,
+        "subPart": "",
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "statements": [
+        {
+          "id": "s1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Thức ăn để qua đêm không che đậy."
+              }
+            ]
+          },
+          "correctAnswer": false
+        },
+        {
+          "id": "s2",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Uống nước giếng, nước ao, nước mưa chưa đun sôi."
+              }
+            ]
+          },
+          "correctAnswer": false
+        },
+        {
+          "id": "s3",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Rửa kĩ rau xanh trước khi nấu."
+              }
+            ]
+          },
+          "correctAnswer": true
+        },
+        {
+          "id": "s4",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Uống sữa, nước ngọt quá hạn sử dụng."
+              }
+            ]
+          },
+          "correctAnswer": false
+        },
+        {
+          "id": "s5",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Đựng nước lau sàn trong chai nước ngọt cũ nhưng vẫn giữ nguyên nhãn mác."
+              }
+            ]
+          },
+          "correctAnswer": false
+        },
+        {
+          "id": "s6",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Đựng nước tẩy rửa trong chai có nắp và dán nhãn cảnh báo rõ ràng."
+              }
+            ]
+          },
+          "correctAnswer": true
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai03_q2",
+      "type": "cloze",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_03"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Khi bị ốm, em không {{blank_1}} mà cần {{blank_2}} để được {{blank_3}} và {{blank_4}}."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 3,
+        "exerciseNumber": 2,
+        "bookId": "tnxh-2",
+        "wordBank": [
+          "báo cho người lớn",
+          "tự lấy thuốc uống",
+          "uống thuốc theo đúng chỉ dẫn",
+          "đưa đi khám"
+        ]
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "blanks": [
+        {
+          "id": "blank_1",
+          "acceptedAnswers": [
+            "tự lấy thuốc uống"
+          ],
+          "caseSensitive": false,
+          "trimWhitespace": true
+        },
+        {
+          "id": "blank_2",
+          "acceptedAnswers": [
+            "báo cho người lớn"
+          ]
+        },
+        {
+          "id": "blank_3",
+          "acceptedAnswers": [
+            "đưa đi khám"
+          ]
+        },
+        {
+          "id": "blank_4",
+          "acceptedAnswers": [
+            "uống thuốc theo đúng chỉ dẫn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai03_q3",
+      "type": "single_choice",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_03"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Quan sát tình huống (bạn nhỏ hỏi bánh còn ăn được không) và chọn cách ứng xử em chọn."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 3,
+        "exerciseNumber": 3,
+        "bookId": "tnxh-2",
+        "requiresPageImage": true,
+        "page": 8
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bánh đã bị mốc thì nên bỏ đi vì ăn sẽ có hại cho sức khỏe."
+              }
+            ]
+          }
+        },
+        {
+          "id": "B",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bánh mới bị mốc một góc nên chỉ cần bỏ cắt góc đó là ăn được."
+              }
+            ]
+          }
+        },
+        {
+          "id": "C",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Đem rửa sạch chỗ mốc đó là ăn được."
+              }
+            ]
+          }
+        },
+        {
+          "id": "D",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Bánh mới bị mốc một góc nên cứ để thế ăn cũng không sao."
+              }
+            ]
+          }
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": "tnxh2_bai03_q4",
+      "type": "multi_true_false",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_03"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Quan sát tình huống (ăn quả hái ngoài vườn, đau bụng) và chọn các cách ứng xử em chọn."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 3,
+        "exerciseNumber": 4,
+        "subPart": "",
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "statements": [
+        {
+          "id": "s1",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Không báo cho ai biết, tự đi nằm nghỉ vì nghĩ: “Chắc nằm nghỉ một lúc là sẽ khỏi.”"
+              }
+            ]
+          },
+          "correctAnswer": false
+        },
+        {
+          "id": "s2",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Báo ngay cho bố mẹ hoặc người lớn trong gia đình biết."
+              }
+            ]
+          },
+          "correctAnswer": true
+        },
+        {
+          "id": "s3",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Tự tìm và uống thuốc có sẵn trong nhà."
+              }
+            ]
+          },
+          "correctAnswer": false
+        },
+        {
+          "id": "s4",
+          "content": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Không kể cho bố mẹ biết mình đã ăn những gì vì sợ bị mắng."
+              }
+            ]
+          },
+          "correctAnswer": false
+        }
+      ]
+    },
+    {
+      "id": "tnxh2_bai03_q5",
+      "type": "essay",
+      "version": 1,
+      "difficulty": "easy",
+      "score": 1,
+      "tags": [
+        "tnxh_2",
+        "grade_2",
+        "bai_03"
+      ],
+      "language": "vi",
+      "content": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Đánh dấu vào cột phù hợp và viết những việc em và gia đình đã thực hiện để phòng tránh ngộ độc khi ở nhà."
+          }
+        ]
+      },
+      "explanation": {
+        "blocks": []
+      },
+      "hint": {
+        "blocks": []
+      },
+      "metadata": {
+        "lessonNumber": 3,
+        "exerciseNumber": 5,
+        "subPart": "",
+        "bookId": "tnxh-2"
+      },
+      "settings": {
+        "shuffleOptions": true,
+        "partialScoring": false,
+        "caseSensitive": false
+      },
+      "accessibility": {
+        "altText": "",
+        "transcript": "",
+        "captions": ""
+      },
+      "manualGrading": true,
+      "allowAttachments": true
+    }
+  ]
+}

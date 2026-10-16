@@ -1,0 +1,942 @@
+{
+  "id": "tnxh-2",
+  "title": "Vở bài tập Tự nhiên và Xã hội 2",
+  "subtitle": "Tích hợp phát triển năng lực số",
+  "grade": 2,
+  "subject": "Tự nhiên và Xã hội",
+  "language": "vi",
+  "totalPages": 74,
+  "pageImagePattern": "/books/tnxh-2/pages/page-{page:02d}.png",
+  "coverImage": "/books/tnxh-2/cover.png",
+  "authors": [
+    "Nguyễn Thị Thu Hằng (Chủ biên)",
+    "Lương Việt Thái",
+    "Phương Thảo"
+  ],
+  "publisher": "Nhà xuất bản Giáo dục Việt Nam",
+  "preface": [
+    "Các em học sinh yêu quý!",
+    "Vở bài tập Tự nhiên và Xã hội 2 (Tích hợp phát triển năng lực số) được biên soạn nhằm giúp các em học tập tốt hơn thông qua những hoạt động gần gũi, phù hợp với lứa tuổi.",
+    "Trong sách, các em sẽ được đọc, viết, quan sát, vẽ và thực hành qua nhiều bài tập sinh động, giúp củng cố và vận dụng kiến thức đã học vào thực tiễn cuộc sống.",
+    "Bên cạnh các hoạt động trên giấy, cuốn sách còn mở ra cơ hội để các em tìm hiểu, học tập qua hình ảnh, video và học liệu số phù hợp, từ đó sử dụng công nghệ một cách an toàn, đúng mục đích.",
+    "Mỗi bài học được thiết kế rõ ràng, dễ hiểu, giúp các em hình thành thói quen học tập tích cực, phát triển tư duy và thêm yêu thích việc học.",
+    "Hi vọng cuốn sách sẽ là người bạn đồng hành thân thiết của các em trong những giờ học vui vẻ và bổ ích.",
+    "Các tác giả"
+  ],
+  "toc": [
+    {
+      "chapter": "",
+      "title": "Chủ đề 1. GIA ĐÌNH",
+      "page": ""
+    },
+    {
+      "chapter": "Bài 1",
+      "title": "Các thế hệ trong gia đình",
+      "page": "4"
+    },
+    {
+      "chapter": "Bài 2",
+      "title": "Nghề nghiệp của người lớn trong gia đình",
+      "page": "6"
+    },
+    {
+      "chapter": "Bài 3",
+      "title": "Phòng tránh ngộ độc khi ở nhà",
+      "page": "8"
+    },
+    {
+      "chapter": "Bài 4",
+      "title": "Giữ sạch nhà ở",
+      "page": "10"
+    },
+    {
+      "chapter": "Bài 5",
+      "title": "Ôn tập chủ đề Gia đình",
+      "page": "12"
+    },
+    {
+      "chapter": "",
+      "title": "Chủ đề 2. TRƯỜNG HỌC",
+      "page": ""
+    },
+    {
+      "chapter": "Bài 6",
+      "title": "Chào đón ngày khai giảng",
+      "page": "14"
+    },
+    {
+      "chapter": "Bài 7",
+      "title": "Ngày hội đọc sách của chúng em",
+      "page": "16"
+    },
+    {
+      "chapter": "Bài 8",
+      "title": "An toàn khi ở trường",
+      "page": "18"
+    },
+    {
+      "chapter": "Bài 9",
+      "title": "Giữ vệ sinh trường học",
+      "page": "20"
+    },
+    {
+      "chapter": "Bài 10",
+      "title": "Ôn tập chủ đề Trường học",
+      "page": "22"
+    },
+    {
+      "chapter": "",
+      "title": "Chủ đề 3. CỘNG ĐỒNG ĐỊA PHƯƠNG",
+      "page": ""
+    },
+    {
+      "chapter": "Bài 11",
+      "title": "Hoạt động mua bán hàng hoá",
+      "page": "24"
+    },
+    {
+      "chapter": "Bài 12",
+      "title": "Thực hành mua bán hàng hoá",
+      "page": "26"
+    },
+    {
+      "chapter": "Bài 13",
+      "title": "Hoạt động giao thông",
+      "page": "29"
+    },
+    {
+      "chapter": "Bài 14",
+      "title": "Cùng tham gia giao thông",
+      "page": "32"
+    },
+    {
+      "chapter": "Bài 15",
+      "title": "Ôn tập chủ đề Cộng đồng địa phương",
+      "page": "34"
+    },
+    {
+      "chapter": "",
+      "title": "Chủ đề 4. THỰC VẬT VÀ ĐỘNG VẬT",
+      "page": ""
+    },
+    {
+      "chapter": "Bài 16",
+      "title": "Thực vật sống ở đâu?",
+      "page": "36"
+    },
+    {
+      "chapter": "Bài 17",
+      "title": "Động vật sống ở đâu?",
+      "page": "39"
+    },
+    {
+      "chapter": "Bài 18",
+      "title": "Cần làm gì để bảo vệ môi trường sống của thực vật và động vật?",
+      "page": "41"
+    },
+    {
+      "chapter": "Bài 19",
+      "title": "Thực vật và động vật quanh em",
+      "page": "44"
+    },
+    {
+      "chapter": "Bài 20",
+      "title": "Ôn tập chủ đề Thực vật và động vật",
+      "page": "46"
+    },
+    {
+      "chapter": "",
+      "title": "Chủ đề 5. CON NGƯỜI VÀ SỨC KHOẺ",
+      "page": ""
+    },
+    {
+      "chapter": "Bài 21",
+      "title": "Tìm hiểu cơ quan vận động",
+      "page": "49"
+    },
+    {
+      "chapter": "Bài 22",
+      "title": "Chăm sóc, bảo vệ cơ quan vận động",
+      "page": "52"
+    },
+    {
+      "chapter": "Bài 23",
+      "title": "Tìm hiểu cơ quan hô hấp",
+      "page": "54"
+    },
+    {
+      "chapter": "Bài 24",
+      "title": "Chăm sóc, bảo vệ cơ quan hô hấp",
+      "page": "56"
+    },
+    {
+      "chapter": "Bài 25",
+      "title": "Tìm hiểu cơ quan bài tiết nước tiểu",
+      "page": "58"
+    },
+    {
+      "chapter": "Bài 26",
+      "title": "Chăm sóc, bảo vệ cơ quan bài tiết nước tiểu",
+      "page": "60"
+    },
+    {
+      "chapter": "Bài 27",
+      "title": "Ôn tập chủ đề Con người và sức khoẻ",
+      "page": "63"
+    },
+    {
+      "chapter": "",
+      "title": "Chủ đề 6. TRÁI ĐẤT VÀ BẦU TRỜI",
+      "page": ""
+    },
+    {
+      "chapter": "Bài 28",
+      "title": "Các mùa trong năm",
+      "page": "65"
+    },
+    {
+      "chapter": "Bài 29",
+      "title": "Một số thiên tai thường gặp",
+      "page": "67"
+    },
+    {
+      "chapter": "Bài 30",
+      "title": "Luyện tập ứng phó với thiên tai",
+      "page": "69"
+    },
+    {
+      "chapter": "Bài 31",
+      "title": "Ôn tập chủ đề Trái Đất và bầu trời",
+      "page": "70"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "bai-01",
+      "number": 1,
+      "title": "Các thế hệ trong gia đình",
+      "topic": "Chủ đề 1. GIA ĐÌNH",
+      "startPage": 4,
+      "endPage": 5,
+      "pdfPages": [
+        4,
+        5
+      ],
+      "questionIds": [
+        "tnxh2_bai01_q1a",
+        "tnxh2_bai01_q1b",
+        "tnxh2_bai01_q1c",
+        "tnxh2_bai01_q2",
+        "tnxh2_bai01_q3",
+        "tnxh2_bai01_q4"
+      ],
+      "questionCount": 6
+    },
+    {
+      "id": "bai-02",
+      "number": 2,
+      "title": "Nghề nghiệp của người lớn trong gia đình",
+      "topic": "Chủ đề 1. GIA ĐÌNH",
+      "startPage": 6,
+      "endPage": 7,
+      "pdfPages": [
+        6,
+        7
+      ],
+      "questionIds": [
+        "tnxh2_bai02_q1",
+        "tnxh2_bai02_q2",
+        "tnxh2_bai02_q3",
+        "tnxh2_bai02_q4"
+      ],
+      "questionCount": 4
+    },
+    {
+      "id": "bai-03",
+      "number": 3,
+      "title": "Phòng tránh ngộ độc khi ở nhà",
+      "topic": "Chủ đề 1. GIA ĐÌNH",
+      "startPage": 8,
+      "endPage": 9,
+      "pdfPages": [
+        8,
+        9
+      ],
+      "questionIds": [
+        "tnxh2_bai03_q1",
+        "tnxh2_bai03_q2",
+        "tnxh2_bai03_q3",
+        "tnxh2_bai03_q4",
+        "tnxh2_bai03_q5"
+      ],
+      "questionCount": 5
+    },
+    {
+      "id": "bai-04",
+      "number": 4,
+      "title": "Giữ sạch nhà ở",
+      "topic": "Chủ đề 1. GIA ĐÌNH",
+      "startPage": 10,
+      "endPage": 11,
+      "pdfPages": [
+        10,
+        11
+      ],
+      "questionIds": [
+        "tnxh2_bai04_q4",
+        "tnxh2_bai04_q1",
+        "tnxh2_bai04_q1",
+        "tnxh2_bai04_q2",
+        "tnxh2_bai04_q3",
+        "tnxh2_bai04_q2",
+        "tnxh2_bai04_q1",
+        "tnxh2_bai04_q10",
+        "tnxh2_bai04_q2",
+        "tnxh2_bai04_q4",
+        "tnxh2_bai04_q1",
+        "tnxh2_bai04_q2",
+        "tnxh2_bai04_q3"
+      ],
+      "questionCount": 13
+    },
+    {
+      "id": "bai-05",
+      "number": 5,
+      "title": "Ôn tập chủ đề Gia đình",
+      "topic": "Chủ đề 1. GIA ĐÌNH",
+      "startPage": 12,
+      "endPage": 13,
+      "pdfPages": [
+        12,
+        13
+      ],
+      "questionIds": [
+        "tnxh2_bai05_q5",
+        "tnxh2_bai05_q1",
+        "tnxh2_bai05_q2",
+        "tnxh2_bai05_q12",
+        "tnxh2_bai05_q4",
+        "tnxh2_bai05_q13"
+      ],
+      "questionCount": 6
+    },
+    {
+      "id": "bai-06",
+      "number": 6,
+      "title": "Chào đón ngày khai giảng",
+      "topic": "Chủ đề 2. TRƯỜNG HỌC",
+      "startPage": 14,
+      "endPage": 15,
+      "pdfPages": [
+        14,
+        15
+      ],
+      "questionIds": [
+        "tnxh2_bai06_q6",
+        "tnxh2_bai06_q1",
+        "tnxh2_bai06_q1",
+        "tnxh2_bai06_q2",
+        "tnxh2_bai06_q3",
+        "tnxh2_bai06_q4",
+        "tnxh2_bai06_q14",
+        "tnxh2_bai06_q3",
+        "tnxh2_bai06_q4",
+        "tnxh2_bai06_q5"
+      ],
+      "questionCount": 10
+    },
+    {
+      "id": "bai-07",
+      "number": 7,
+      "title": "Ngày hội đọc sách của chúng em",
+      "topic": "Chủ đề 2. TRƯỜNG HỌC",
+      "startPage": 16,
+      "endPage": 17,
+      "pdfPages": [
+        16,
+        17
+      ],
+      "questionIds": [
+        "tnxh2_bai07_q7",
+        "tnxh2_bai07_q1",
+        "tnxh2_bai07_q2",
+        "tnxh2_bai07_q16",
+        "tnxh2_bai07_q4",
+        "tnxh2_bai07_q5",
+        "tnxh2_bai07_q6"
+      ],
+      "questionCount": 7
+    },
+    {
+      "id": "bai-08",
+      "number": 8,
+      "title": "An toàn khi ở trường",
+      "topic": "Chủ đề 2. TRƯỜNG HỌC",
+      "startPage": 18,
+      "endPage": 19,
+      "pdfPages": [
+        18,
+        19
+      ],
+      "questionIds": [
+        "tnxh2_bai08_q8",
+        "tnxh2_bai08_q1",
+        "tnxh2_bai08_q1",
+        "tnxh2_bai08_q2",
+        "tnxh2_bai08_q3",
+        "tnxh2_bai08_q4",
+        "tnxh2_bai08_q2",
+        "tnxh2_bai08_q18",
+        "tnxh2_bai08_q4"
+      ],
+      "questionCount": 9
+    },
+    {
+      "id": "bai-09",
+      "number": 9,
+      "title": "Giữ vệ sinh trường học",
+      "topic": "Chủ đề 2. TRƯỜNG HỌC",
+      "startPage": 20,
+      "endPage": 21,
+      "pdfPages": [
+        20,
+        21
+      ],
+      "questionIds": [
+        "tnxh2_bai09_q9",
+        "tnxh2_bai09_q1",
+        "tnxh2_bai09_q2",
+        "tnxh2_bai09_q3",
+        "tnxh2_bai09_q20",
+        "tnxh2_bai09_q5"
+      ],
+      "questionCount": 6
+    },
+    {
+      "id": "bai-10",
+      "number": 10,
+      "title": "Ôn tập chủ đề Trường học",
+      "topic": "Chủ đề 2. TRƯỜNG HỌC",
+      "startPage": 22,
+      "endPage": 23,
+      "pdfPages": [
+        22,
+        23
+      ],
+      "questionIds": [
+        "tnxh2_bai10_q10",
+        "tnxh2_bai10_q1",
+        "tnxh2_bai10_q2",
+        "tnxh2_bai10_q22",
+        "tnxh2_bai10_q4",
+        "tnxh2_bai10_q23"
+      ],
+      "questionCount": 6
+    },
+    {
+      "id": "bai-11",
+      "number": 11,
+      "title": "Hoạt động mua bán hàng hoá",
+      "topic": "Chủ đề 3. CỘNG ĐỒNG ĐỊA PHƯƠNG",
+      "startPage": 24,
+      "endPage": 25,
+      "pdfPages": [
+        24,
+        25
+      ],
+      "questionIds": [
+        "tnxh2_bai11_q11",
+        "tnxh2_bai11_q1",
+        "tnxh2_bai11_q24",
+        "tnxh2_bai11_q1",
+        "tnxh2_bai11_q2",
+        "tnxh2_bai11_q3",
+        "tnxh2_bai11_q3",
+        "tnxh2_bai11_q4",
+        "tnxh2_bai11_q25",
+        "tnxh2_bai11_q12"
+      ],
+      "questionCount": 10
+    },
+    {
+      "id": "bai-12",
+      "number": 12,
+      "title": "Thực hành mua bán hàng hoá",
+      "topic": "Chủ đề 3. CỘNG ĐỒNG ĐỊA PHƯƠNG",
+      "startPage": 26,
+      "endPage": 28,
+      "pdfPages": [
+        26,
+        27,
+        28
+      ],
+      "questionIds": [],
+      "questionCount": 0
+    },
+    {
+      "id": "bai-13",
+      "number": 13,
+      "title": "Hoạt động giao thông",
+      "topic": "Chủ đề 3. CỘNG ĐỒNG ĐỊA PHƯƠNG",
+      "startPage": 29,
+      "endPage": 31,
+      "pdfPages": [
+        29,
+        30,
+        31
+      ],
+      "questionIds": [
+        "tnxh2_bai13_q1",
+        "tnxh2_bai13_q2",
+        "tnxh2_bai13_q3",
+        "tnxh2_bai13_q4",
+        "tnxh2_bai13_q2",
+        "tnxh2_bai13_q5",
+        "tnxh2_bai13_q6",
+        "tnxh2_bai13_q29",
+        "tnxh2_bai13_q4",
+        "tnxh2_bai13_q3"
+      ],
+      "questionCount": 10
+    },
+    {
+      "id": "bai-14",
+      "number": 14,
+      "title": "Cùng tham gia giao thông",
+      "topic": "Chủ đề 3. CỘNG ĐỒNG ĐỊA PHƯƠNG",
+      "startPage": 32,
+      "endPage": 33,
+      "pdfPages": [
+        32,
+        33
+      ],
+      "questionIds": [
+        "tnxh2_bai14_q14",
+        "tnxh2_bai14_q1",
+        "tnxh2_bai14_q2",
+        "tnxh2_bai14_q3",
+        "tnxh2_bai14_q32",
+        "tnxh2_bai14_q4"
+      ],
+      "questionCount": 6
+    },
+    {
+      "id": "bai-15",
+      "number": 15,
+      "title": "Ôn tập chủ đề Cộng đồng địa phương",
+      "topic": "Chủ đề 3. CỘNG ĐỒNG ĐỊA PHƯƠNG",
+      "startPage": 34,
+      "endPage": 35,
+      "pdfPages": [
+        34,
+        35
+      ],
+      "questionIds": [
+        "tnxh2_bai15_q15",
+        "tnxh2_bai15_q1",
+        "tnxh2_bai15_q2",
+        "tnxh2_bai15_q4",
+        "tnxh2_bai15_q2",
+        "tnxh2_bai15_q34",
+        "tnxh2_bai15_q4",
+        "tnxh2_bai15_q35"
+      ],
+      "questionCount": 8
+    },
+    {
+      "id": "bai-16",
+      "number": 16,
+      "title": "Thực vật sống ở đâu?",
+      "topic": "Chủ đề 4. THỰC VẬT VÀ ĐỘNG VẬT",
+      "startPage": 36,
+      "endPage": 38,
+      "pdfPages": [
+        36,
+        37,
+        38
+      ],
+      "questionIds": [
+        "tnxh2_bai16_q16",
+        "tnxh2_bai16_q1",
+        "tnxh2_bai16_q36",
+        "tnxh2_bai16_q1",
+        "tnxh2_bai16_q2",
+        "tnxh2_bai16_q3",
+        "tnxh2_bai16_q4",
+        "tnxh2_bai16_q3",
+        "tnxh2_bai16_q1",
+        "tnxh2_bai16_q37",
+        "tnxh2_bai16_q1",
+        "tnxh2_bai16_q3",
+        "tnxh2_bai16_q2",
+        "tnxh2_bai16_q4",
+        "tnxh2_bai16_q5",
+        "tnxh2_bai16_q38"
+      ],
+      "questionCount": 16
+    },
+    {
+      "id": "bai-17",
+      "number": 17,
+      "title": "Động vật sống ở đâu?",
+      "topic": "Chủ đề 4. THỰC VẬT VÀ ĐỘNG VẬT",
+      "startPage": 39,
+      "endPage": 40,
+      "pdfPages": [
+        39,
+        40
+      ],
+      "questionIds": [
+        "tnxh2_bai17_q17",
+        "tnxh2_bai17_q1",
+        "tnxh2_bai17_q2",
+        "tnxh2_bai17_q3",
+        "tnxh2_bai17_q5",
+        "tnxh2_bai17_q3",
+        "tnxh2_bai17_q39",
+        "tnxh2_bai17_q1",
+        "tnxh2_bai17_q5"
+      ],
+      "questionCount": 9
+    },
+    {
+      "id": "bai-18",
+      "number": 18,
+      "title": "Cần làm gì để bảo vệ môi trường sống của thực vật và động vật?",
+      "topic": "Chủ đề 4. THỰC VẬT VÀ ĐỘNG VẬT",
+      "startPage": 41,
+      "endPage": 43,
+      "pdfPages": [
+        41,
+        42,
+        43
+      ],
+      "questionIds": [
+        "tnxh2_bai18_q18",
+        "tnxh2_bai18_q1",
+        "tnxh2_bai18_q6",
+        "tnxh2_bai18_q41",
+        "tnxh2_bai18_q3",
+        "tnxh2_bai18_q42",
+        "tnxh2_bai18_q5",
+        "tnxh2_bai18_q1",
+        "tnxh2_bai18_q2",
+        "tnxh2_bai18_q3",
+        "tnxh2_bai18_q4",
+        "tnxh2_bai18_q5",
+        "tnxh2_bai18_q6",
+        "tnxh2_bai18_q7",
+        "tnxh2_bai18_q8"
+      ],
+      "questionCount": 15
+    },
+    {
+      "id": "bai-19",
+      "number": 19,
+      "title": "Thực vật và động vật quanh em",
+      "topic": "Chủ đề 4. THỰC VẬT VÀ ĐỘNG VẬT",
+      "startPage": 44,
+      "endPage": 45,
+      "pdfPages": [
+        44,
+        45
+      ],
+      "questionIds": [
+        "tnxh2_bai19_q19",
+        "tnxh2_bai19_q1",
+        "tnxh2_bai19_q2",
+        "tnxh2_bai19_q44",
+        "tnxh2_bai19_q4"
+      ],
+      "questionCount": 5
+    },
+    {
+      "id": "bai-20",
+      "number": 20,
+      "title": "Ôn tập chủ đề Thực vật và động vật",
+      "topic": "Chủ đề 4. THỰC VẬT VÀ ĐỘNG VẬT",
+      "startPage": 46,
+      "endPage": 48,
+      "pdfPages": [
+        46,
+        47,
+        48
+      ],
+      "questionIds": [
+        "tnxh2_bai20_q20",
+        "tnxh2_bai20_q1",
+        "tnxh2_bai20_q2",
+        "tnxh2_bai20_q46",
+        "tnxh2_bai20_q47",
+        "tnxh2_bai20_q5",
+        "tnxh2_bai20_q48"
+      ],
+      "questionCount": 7
+    },
+    {
+      "id": "bai-21",
+      "number": 21,
+      "title": "Tìm hiểu cơ quan vận động",
+      "topic": "Chủ đề 5. CON NGƯỜI VÀ SỨC KHOẺ",
+      "startPage": 49,
+      "endPage": 51,
+      "pdfPages": [
+        49,
+        50,
+        51
+      ],
+      "questionIds": [
+        "tnxh2_bai21_q21",
+        "tnxh2_bai21_q1",
+        "tnxh2_bai21_q2",
+        "tnxh2_bai21_q49",
+        "tnxh2_bai21_q4",
+        "tnxh2_bai21_q5",
+        "tnxh2_bai21_q50"
+      ],
+      "questionCount": 7
+    },
+    {
+      "id": "bai-22",
+      "number": 22,
+      "title": "Chăm sóc, bảo vệ cơ quan vận động",
+      "topic": "Chủ đề 5. CON NGƯỜI VÀ SỨC KHOẺ",
+      "startPage": 52,
+      "endPage": 53,
+      "pdfPages": [
+        52,
+        53
+      ],
+      "questionIds": [
+        "tnxh2_bai22_q22",
+        "tnxh2_bai22_q1",
+        "tnxh2_bai22_q2",
+        "tnxh2_bai22_q4",
+        "tnxh2_bai22_q4"
+      ],
+      "questionCount": 5
+    },
+    {
+      "id": "bai-23",
+      "number": 23,
+      "title": "Tìm hiểu cơ quan hô hấp",
+      "topic": "Chủ đề 5. CON NGƯỜI VÀ SỨC KHOẺ",
+      "startPage": 54,
+      "endPage": 55,
+      "pdfPages": [
+        54,
+        55
+      ],
+      "questionIds": [
+        "tnxh2_bai23_q23",
+        "tnxh2_bai23_q1",
+        "tnxh2_bai23_q2",
+        "tnxh2_bai23_q3",
+        "tnxh2_bai23_q54",
+        "tnxh2_bai23_q5"
+      ],
+      "questionCount": 6
+    },
+    {
+      "id": "bai-24",
+      "number": 24,
+      "title": "Chăm sóc, bảo vệ cơ quan hô hấp",
+      "topic": "Chủ đề 5. CON NGƯỜI VÀ SỨC KHOẺ",
+      "startPage": 56,
+      "endPage": 57,
+      "pdfPages": [
+        56,
+        57
+      ],
+      "questionIds": [
+        "tnxh2_bai24_q24",
+        "tnxh2_bai24_q1",
+        "tnxh2_bai24_q2",
+        "tnxh2_bai24_q56",
+        "tnxh2_bai24_q4",
+        "tnxh2_bai24_q5"
+      ],
+      "questionCount": 6
+    },
+    {
+      "id": "bai-25",
+      "number": 25,
+      "title": "Tìm hiểu cơ quan bài tiết nước tiểu",
+      "topic": "Chủ đề 5. CON NGƯỜI VÀ SỨC KHOẺ",
+      "startPage": 58,
+      "endPage": 59,
+      "pdfPages": [
+        58,
+        59
+      ],
+      "questionIds": [
+        "tnxh2_bai25_q25",
+        "tnxh2_bai25_q1",
+        "tnxh2_bai25_q2",
+        "tnxh2_bai25_q58",
+        "tnxh2_bai25_q4",
+        "tnxh2_bai25_q5"
+      ],
+      "questionCount": 6
+    },
+    {
+      "id": "bai-26",
+      "number": 26,
+      "title": "Chăm sóc, bảo vệ cơ quan bài tiết nước tiểu",
+      "topic": "Chủ đề 5. CON NGƯỜI VÀ SỨC KHOẺ",
+      "startPage": 60,
+      "endPage": 62,
+      "pdfPages": [
+        60,
+        61,
+        62
+      ],
+      "questionIds": [
+        "tnxh2_bai26_q26",
+        "tnxh2_bai26_q1",
+        "tnxh2_bai26_q1",
+        "tnxh2_bai26_q2",
+        "tnxh2_bai26_q3",
+        "tnxh2_bai26_q2",
+        "tnxh2_bai26_q60",
+        "tnxh2_bai26_q1",
+        "tnxh2_bai26_q2",
+        "tnxh2_bai26_q4",
+        "tnxh2_bai26_q61",
+        "tnxh2_bai26_q5"
+      ],
+      "questionCount": 12
+    },
+    {
+      "id": "bai-27",
+      "number": 27,
+      "title": "Ôn tập chủ đề Con người và sức khoẻ",
+      "topic": "Chủ đề 5. CON NGƯỜI VÀ SỨC KHOẺ",
+      "startPage": 63,
+      "endPage": 64,
+      "pdfPages": [
+        63,
+        64
+      ],
+      "questionIds": [
+        "tnxh2_bai27_q27",
+        "tnxh2_bai27_q1",
+        "tnxh2_bai27_q63",
+        "tnxh2_bai27_q3",
+        "tnxh2_bai27_q64",
+        "tnxh2_bai27_q6"
+      ],
+      "questionCount": 6
+    },
+    {
+      "id": "bai-28",
+      "number": 28,
+      "title": "Các mùa trong năm",
+      "topic": "Chủ đề 6. TRÁI ĐẤT VÀ BẦU TRỜI",
+      "startPage": 65,
+      "endPage": 66,
+      "pdfPages": [
+        65,
+        66
+      ],
+      "questionIds": [
+        "tnxh2_bai28_q28",
+        "tnxh2_bai28_q1",
+        "tnxh2_bai28_q2",
+        "tnxh2_bai28_q3",
+        "tnxh2_bai28_q4",
+        "tnxh2_bai28_q2",
+        "tnxh2_bai28_q65",
+        "tnxh2_bai28_q2",
+        "tnxh2_bai28_q4",
+        "tnxh2_bai28_q3",
+        "tnxh2_bai28_q4"
+      ],
+      "questionCount": 11
+    },
+    {
+      "id": "bai-29",
+      "number": 29,
+      "title": "Một số thiên tai thường gặp",
+      "topic": "Chủ đề 6. TRÁI ĐẤT VÀ BẦU TRỜI",
+      "startPage": 67,
+      "endPage": 68,
+      "pdfPages": [
+        67,
+        68
+      ],
+      "questionIds": [
+        "tnxh2_bai29_q29",
+        "tnxh2_bai29_q1",
+        "tnxh2_bai29_q2",
+        "tnxh2_bai29_q3",
+        "tnxh2_bai29_q4",
+        "tnxh2_bai29_q2",
+        "tnxh2_bai29_q67",
+        "tnxh2_bai29_q4"
+      ],
+      "questionCount": 8
+    },
+    {
+      "id": "bai-30",
+      "number": 30,
+      "title": "Luyện tập ứng phó với thiên tai",
+      "topic": "Chủ đề 6. TRÁI ĐẤT VÀ BẦU TRỜI",
+      "startPage": 69,
+      "endPage": 69,
+      "pdfPages": [
+        69
+      ],
+      "questionIds": [
+        "tnxh2_bai30_q30",
+        "tnxh2_bai30_q1",
+        "tnxh2_bai30_q1",
+        "tnxh2_bai30_q3",
+        "tnxh2_bai30_q4",
+        "tnxh2_bai30_q2",
+        "tnxh2_bai30_q4",
+        "tnxh2_bai30_q3"
+      ],
+      "questionCount": 8
+    },
+    {
+      "id": "bai-31",
+      "number": 31,
+      "title": "Ôn tập chủ đề Trái Đất và bầu trời",
+      "topic": "Chủ đề 6. TRÁI ĐẤT VÀ BẦU TRỜI",
+      "startPage": 70,
+      "endPage": 74,
+      "pdfPages": [
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "questionIds": [
+        "tnxh2_bai31_q31",
+        "tnxh2_bai31_q1",
+        "tnxh2_bai31_q2",
+        "tnxh2_bai31_q3",
+        "tnxh2_bai31_q4",
+        "tnxh2_bai31_q6",
+        "tnxh2_bai31_q70",
+        "tnxh2_bai31_q3",
+        "tnxh2_bai31_q71",
+        "tnxh2_bai31_q2",
+        "tnxh2_bai31_q2",
+        "tnxh2_bai31_q2",
+        "tnxh2_bai31_q2",
+        "tnxh2_bai31_q22",
+        "tnxh2_bai31_q2",
+        "tnxh2_bai31_q2",
+        "tnxh2_bai31_q2",
+        "tnxh2_bai31_q2",
+        "tnxh2_bai31_q2",
+        "tnxh2_bai31_q2"
+      ],
+      "questionCount": 20
+    }
+  ],
+  "schemaVersion": 1
+}

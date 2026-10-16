@@ -1,0 +1,43 @@
+<!-- placeholder, awaiting official asset -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Rồng Cozzy">
+  <!-- mini wings (behind body) -->
+  <path d="M52 100 C28 88 16 100 14 118 C30 116 44 116 58 122 Z" fill="#FDBA74" stroke="#C2410C" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M148 100 C172 88 184 100 186 118 C170 116 156 116 142 122 Z" fill="#FDBA74" stroke="#C2410C" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- tail -->
+  <path d="M136 150 C158 152 170 140 168 124 C160 132 148 136 138 134 Z" fill="#F97316" stroke="#C2410C" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- legs -->
+  <ellipse cx="76" cy="168" rx="14" ry="10" fill="#F97316" stroke="#C2410C" stroke-width="4"/>
+  <ellipse cx="128" cy="168" rx="14" ry="10" fill="#F97316" stroke="#C2410C" stroke-width="4"/>
+
+  <!-- body -->
+  <circle cx="100" cy="110" r="62" fill="#F97316" stroke="#C2410C" stroke-width="5"/>
+
+  <!-- belly -->
+  <ellipse cx="100" cy="126" rx="38" ry="34" fill="#FEF9C3"/>
+
+  <!-- horns -->
+  <path d="M78 58 C74 44 78 34 86 28 C84 40 86 50 90 58 Z" fill="#FDE68A" stroke="#C2410C" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M122 58 C126 44 122 34 114 28 C116 40 114 50 110 58 Z" fill="#FDE68A" stroke="#C2410C" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- head -->
+  <circle cx="100" cy="72" r="46" fill="#FB923C" stroke="#C2410C" stroke-width="5"/>
+
+  <!-- cheeks -->
+  <circle cx="70" cy="82" r="8" fill="#FDA4AF" opacity="0.7"/>
+  <circle cx="130" cy="82" r="8" fill="#FDA4AF" opacity="0.7"/>
+
+  <!-- eyes -->
+  <circle cx="82" cy="68" r="12" fill="#3B2A1A"/>
+  <circle cx="118" cy="68" r="12" fill="#3B2A1A"/>
+  <circle cx="86" cy="64" r="4" fill="#FFFFFF"/>
+  <circle cx="122" cy="64" r="4" fill="#FFFFFF"/>
+
+  <!-- smile -->
+  <path d="M78 88 C88 100 112 100 122 88" fill="none" stroke="#C2410C" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- snout / nostrils -->
+  <circle cx="93" cy="92" r="2.5" fill="#C2410C"/>
+  <circle cx="107" cy="92" r="2.5" fill="#C2410C"/>
+</svg>
